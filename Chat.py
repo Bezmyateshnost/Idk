@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
-
-bot = telebot.TeleBot('7852971918:AAENEcYzpxx4SRT5win-yqoPlFHnrmVgSI4')
+# -- Крч не буду комментировать, разбирайтесь сами
+bot = telebot.TeleBot('Вставьте айпи сюды :)))))))))))))))))))))')
 restaurant_info = {
     "Название": "Вкусно и точка",
     "Рабочее время": "9:00 - 22:00",
